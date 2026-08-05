@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = 'Web Des'
+project = 'First Project'
 author = 'Marsha'
 release = '1.0'
 
