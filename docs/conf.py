@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
-project = 'Knowledge Books'
+project = 'RoboForm Login Account — RoboForm Help Center'
 author = 'Cambridge'
 release = '1.0'
 
